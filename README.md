@@ -2,6 +2,7 @@
 ---
 - I'm Backend Developer
 - I'm currently studying `Spring MVC`, `JPA`, `Algorithm`
+- geunwoo.dev@gmail.com
 ---
 ### My Teck Stack🛠
 <img src="https://img.shields.io/badge/JAVA-3884FF?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
