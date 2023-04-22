@@ -1,7 +1,7 @@
 ### Hi there, I'm GEUNWOO LEE👋
 ---
 - 📌 I'm Backend Developer
-- 📚 I'm currently studying `Spring MVC`, `JPA`, `Algorithm`
+- 📚 I'm currently studying `Spring Security`, `JPA`, `Algorithm`
 - 📬 geunwoo.dev@gmail.com
 ---
 ### My Teck Stack 🛠
